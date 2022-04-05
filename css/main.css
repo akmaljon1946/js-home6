@@ -1,0 +1,21 @@
+p{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:600;
+  font-size: 70px;
+  color: rgb(0, 115, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/* span{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:600;
+  font-size: 70px;
+  color: rgb(255, 0, 98);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
